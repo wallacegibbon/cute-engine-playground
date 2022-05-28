@@ -1,0 +1,3 @@
+[submodule "cute-engine"]
+	path = cute-engine
+	url = git@github.com:wallacegibbon/cute-engine
